@@ -1,0 +1,1203 @@
+{
+  "anime-zeno": {
+    "name": "Zeno",
+    "canonical": "Zenou",
+    "wiki": "Zeno Dragon Ball",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-grand-priest": {
+    "name": "Grand Priest",
+    "canonical": "Daishinkan",
+    "wiki": "Grand Priest Dragon Ball",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-whis": {
+    "name": "Whis",
+    "canonical": "Whis",
+    "wiki": "Whis Dragon Ball",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-beerus": {
+    "name": "Beerus",
+    "canonical": "Beerus",
+    "wiki": "Beerus Dragon Ball",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-goku-ultra-instinct": {
+    "name": "Goku Ultra Instinct",
+    "canonical": "Son Gokuu",
+    "wiki": "Goku Ultra Instinct",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-vegeta-ultra-ego": {
+    "name": "Vegeta Ultra Ego",
+    "canonical": "Vegeta",
+    "wiki": "Vegeta Ultra Ego",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-gogeta-blue": {
+    "name": "Gogeta Blue",
+    "canonical": "Gogeta",
+    "wiki": "Gogeta Dragon Ball",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-vegito-blue": {
+    "name": "Vegito Blue",
+    "canonical": "Vegetto",
+    "wiki": "Vegito Dragon Ball",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-broly-full-power": {
+    "name": "Broly Full Power",
+    "canonical": "Broly",
+    "wiki": "Broly Dragon Ball Super",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-jiren-full-power": {
+    "name": "Jiren Full Power",
+    "canonical": "Jiren",
+    "wiki": "Jiren Dragon Ball",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-black-frieza": {
+    "name": "Black Frieza",
+    "canonical": "Freeza",
+    "wiki": "Black Frieza",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-gohan-beast": {
+    "name": "Gohan Beast",
+    "canonical": "Son Gohan",
+    "wiki": "Gohan Beast",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-orange-piccolo": {
+    "name": "Orange Piccolo",
+    "canonical": "Piccolo",
+    "wiki": "Orange Piccolo",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-cell-max": {
+    "name": "Cell Max",
+    "canonical": "Cell",
+    "wiki": "Cell Max Dragon Ball",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-majin-buu": {
+    "name": "Majin Buu",
+    "canonical": "Majin Buu",
+    "wiki": "Majin Buu",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-kid-buu": {
+    "name": "Kid Buu",
+    "canonical": "Majin Buu",
+    "wiki": "Kid Buu",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-saitama": {
+    "name": "Saitama",
+    "canonical": "Saitama",
+    "wiki": "Saitama One Punch Man",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-cosmic-garou": {
+    "name": "Cosmic Garou",
+    "canonical": "Garou",
+    "wiki": "Cosmic Garou",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-blast": {
+    "name": "Blast",
+    "canonical": "Blast",
+    "wiki": "Blast One Punch Man",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-tatsumaki": {
+    "name": "Tatsumaki",
+    "canonical": "Tatsumaki",
+    "wiki": "Tatsumaki One Punch Man",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-boros": {
+    "name": "Boros",
+    "canonical": "Boros",
+    "wiki": "Boros One Punch Man",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-gojo-satoru": {
+    "name": "Gojo Satoru",
+    "canonical": "Satoru Gojou",
+    "wiki": "Satoru Gojo",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-ryomen-sukuna": {
+    "name": "Ryomen Sukuna",
+    "canonical": "Ryomen Sukuna",
+    "wiki": "Ryomen Sukuna",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-yuta-okkotsu": {
+    "name": "Yuta Okkotsu",
+    "canonical": "Yuuta Okkotsu",
+    "wiki": "Yuta Okkotsu",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-kenjaku": {
+    "name": "Kenjaku",
+    "canonical": "Kenjaku",
+    "wiki": "Kenjaku Jujutsu Kaisen",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-toji-fushiguro": {
+    "name": "Toji Fushiguro",
+    "canonical": "Toji Fushiguro",
+    "wiki": "Toji Fushiguro",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-maki-zenin": {
+    "name": "Maki Zenin",
+    "canonical": "Maki Zenin",
+    "wiki": "Maki Zenin",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-yuji-itadori": {
+    "name": "Yuji Itadori",
+    "canonical": "Yuuji Itadori",
+    "wiki": "Yuji Itadori",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-mahoraga": {
+    "name": "Mahoraga",
+    "canonical": "Mahoraga",
+    "wiki": "Mahoraga Jujutsu Kaisen",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-tanjiro-kamado": {
+    "name": "Tanjiro Kamado",
+    "canonical": "Tanjirou Kamado",
+    "wiki": "Tanjiro Kamado",
+    "local": "/assets/tanjiro.png",
+    "providers": [
+      "local",
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-yoriichi-tsugikuni": {
+    "name": "Yoriichi Tsugikuni",
+    "canonical": "Yoriichi Tsugikuni",
+    "wiki": "Yoriichi Tsugikuni",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-muzan-kibutsuji": {
+    "name": "Muzan Kibutsuji",
+    "canonical": "Muzan Kibutsuji",
+    "wiki": "Muzan Kibutsuji",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-kokushibo": {
+    "name": "Kokushibo",
+    "canonical": "Kokushibou",
+    "wiki": "Kokushibo Demon Slayer",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-doma": {
+    "name": "Doma",
+    "canonical": "Douma",
+    "wiki": "Doma Demon Slayer",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-akaza": {
+    "name": "Akaza",
+    "canonical": "Akaza",
+    "wiki": "Akaza Demon Slayer",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-zenitsu-agatsuma": {
+    "name": "Zenitsu Agatsuma",
+    "canonical": "Zenitsu Agatsuma",
+    "wiki": "Zenitsu Agatsuma",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-inosuke-hashibira": {
+    "name": "Inosuke Hashibira",
+    "canonical": "Inosuke Hashibira",
+    "wiki": "Inosuke Hashibira",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-gyomei-himejima": {
+    "name": "Gyomei Himejima",
+    "canonical": "Gyomei Himejima",
+    "wiki": "Gyomei Himejima",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-naruto-six-paths": {
+    "name": "Naruto Six Paths",
+    "canonical": "Naruto Uzumaki",
+    "wiki": "Naruto Six Paths",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-sasuke-rinnegan": {
+    "name": "Sasuke Rinnegan",
+    "canonical": "Sasuke Uchiha",
+    "wiki": "Sasuke Rinnegan",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-kaguya-otsutsuki": {
+    "name": "Kaguya Otsutsuki",
+    "canonical": "Kaguya Ootsutsuki",
+    "wiki": "Kaguya Otsutsuki",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-madara-ten-tails": {
+    "name": "Madara Ten Tails",
+    "canonical": "Madara Uchiha",
+    "wiki": "Madara Ten Tails",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-obito-ten-tails": {
+    "name": "Obito Ten Tails",
+    "canonical": "Obito Uchiha",
+    "wiki": "Obito Ten Tails",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-might-guy-8-gates": {
+    "name": "Might Guy 8 Gates",
+    "canonical": "Might Guy",
+    "wiki": "Might Guy Naruto",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-itachi-uchiha": {
+    "name": "Itachi Uchiha",
+    "canonical": "Itachi Uchiha",
+    "wiki": "Itachi Uchiha",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-minato-namikaze": {
+    "name": "Minato Namikaze",
+    "canonical": "Minato Namikaze",
+    "wiki": "Minato Namikaze",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-hashirama-senju": {
+    "name": "Hashirama Senju",
+    "canonical": "Hashirama Senju",
+    "wiki": "Hashirama Senju",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-boruto-uzuhiko": {
+    "name": "Boruto Uzuhiko",
+    "canonical": "Boruto Uzumaki",
+    "wiki": "Boruto Uzumaki",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-kawaki": {
+    "name": "Kawaki",
+    "canonical": "Kawaki",
+    "wiki": "Kawaki Boruto",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-isshiki-otsutsuki": {
+    "name": "Isshiki Otsutsuki",
+    "canonical": "Isshiki Ootsutsuki",
+    "wiki": "Isshiki Otsutsuki",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-monkey-d-luffy-gear-5": {
+    "name": "Monkey D. Luffy Gear 5",
+    "canonical": "Monkey D. Luffy",
+    "wiki": "Luffy Gear 5",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-shanks": {
+    "name": "Shanks",
+    "canonical": "Shanks",
+    "wiki": "Shanks One Piece",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-kaido": {
+    "name": "Kaido",
+    "canonical": "Kaidou",
+    "wiki": "Kaido One Piece",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-blackbeard": {
+    "name": "Blackbeard",
+    "canonical": "Marshall D. Teach",
+    "wiki": "Blackbeard One Piece",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-gol-d-roger": {
+    "name": "Gol D. Roger",
+    "canonical": "Gol D. Roger",
+    "wiki": "Gol D Roger",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-whitebeard-prime": {
+    "name": "Whitebeard Prime",
+    "canonical": "Edward Newgate",
+    "wiki": "Whitebeard One Piece",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-roronoa-zoro": {
+    "name": "Roronoa Zoro",
+    "canonical": "Roronoa Zoro",
+    "wiki": "Roronoa Zoro",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-sanji": {
+    "name": "Sanji",
+    "canonical": "Sanji",
+    "wiki": "Sanji One Piece",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-big-mom": {
+    "name": "Big Mom",
+    "canonical": "Charlotte Linlin",
+    "wiki": "Big Mom One Piece",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-akainu": {
+    "name": "Akainu",
+    "canonical": "Sakazuki",
+    "wiki": "Akainu One Piece",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-ichigo-kurosaki-tybw": {
+    "name": "Ichigo Kurosaki TYBW",
+    "canonical": "Ichigo Kurosaki",
+    "wiki": "Ichigo Kurosaki TYBW",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-aizen-sosuke": {
+    "name": "Aizen Sosuke",
+    "canonical": "Sousuke Aizen",
+    "wiki": "Sosuke Aizen",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-yhwach": {
+    "name": "Yhwach",
+    "canonical": "Yhwach",
+    "wiki": "Yhwach Bleach",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-kenpachi-zaraki": {
+    "name": "Kenpachi Zaraki",
+    "canonical": "Kenpachi Zaraki",
+    "wiki": "Kenpachi Zaraki",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-genryusai-yamamoto": {
+    "name": "Genryusai Yamamoto",
+    "canonical": "Shigekuni Yamamoto-Genryuusai",
+    "wiki": "Genryusai Yamamoto",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-uryu-ishida": {
+    "name": "Uryu Ishida",
+    "canonical": "Uryuu Ishida",
+    "wiki": "Uryu Ishida",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-rukia-kuchiki": {
+    "name": "Rukia Kuchiki",
+    "canonical": "Rukia Kuchiki",
+    "wiki": "Rukia Kuchiki",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-renji-abarai": {
+    "name": "Renji Abarai",
+    "canonical": "Renji Abarai",
+    "wiki": "Renji Abarai",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-asta-devil-union": {
+    "name": "Asta Devil Union",
+    "canonical": "Asta",
+    "wiki": "Asta Black Clover",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-yuno-spirit-dive": {
+    "name": "Yuno Spirit Dive",
+    "canonical": "Yuno",
+    "wiki": "Yuno Black Clover",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-lucius-zogratis": {
+    "name": "Lucius Zogratis",
+    "canonical": "Lucius Zogratis",
+    "wiki": "Lucius Zogratis",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-julius-novachrono": {
+    "name": "Julius Novachrono",
+    "canonical": "Julius Novachrono",
+    "wiki": "Julius Novachrono",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-mereoleona-vermillion": {
+    "name": "Mereoleona Vermillion",
+    "canonical": "Mereoleona Vermillion",
+    "wiki": "Mereoleona Vermillion",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-meliodas-demon-king": {
+    "name": "Meliodas Demon King",
+    "canonical": "Meliodas",
+    "wiki": "Meliodas Seven Deadly Sins",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-escanor-the-one-ultimate": {
+    "name": "Escanor The One Ultimate",
+    "canonical": "Escanor",
+    "wiki": "Escanor Seven Deadly Sins",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-ban-purgatory": {
+    "name": "Ban Purgatory",
+    "canonical": "Ban",
+    "wiki": "Ban Seven Deadly Sins",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-king-full-wings": {
+    "name": "King Full Wings",
+    "canonical": "King",
+    "wiki": "King Seven Deadly Sins",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-mael": {
+    "name": "Mael",
+    "canonical": "Mael",
+    "wiki": "Mael Seven Deadly Sins",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-giorno-giovanna-ger": {
+    "name": "Giorno Giovanna GER",
+    "canonical": "Giorno Giovanna",
+    "wiki": "Giorno Giovanna",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-dio-over-heaven": {
+    "name": "Dio Over Heaven",
+    "canonical": "Dio Brando",
+    "wiki": "Dio Brando JoJo",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-jotaro-kujo": {
+    "name": "Jotaro Kujo",
+    "canonical": "Joutarou Kuujou",
+    "wiki": "Jotaro Kujo",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-johnny-joestar-tusk-act-4": {
+    "name": "Johnny Joestar Tusk Act 4",
+    "canonical": "Johnny Joestar",
+    "wiki": "Johnny Joestar",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-funny-valentine-d4c-love-train": {
+    "name": "Funny Valentine D4C Love Train",
+    "canonical": "Funny Valentine",
+    "wiki": "Funny Valentine JoJo",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-enrico-pucci-made-in-heaven": {
+    "name": "Enrico Pucci Made in Heaven",
+    "canonical": "Enrico Pucci",
+    "wiki": "Enrico Pucci",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-gon-adult": {
+    "name": "Gon Adult",
+    "canonical": "Gon Freecss",
+    "wiki": "Gon Freecss",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-meruem-post-rose": {
+    "name": "Meruem Post-Rose",
+    "canonical": "Meruem",
+    "wiki": "Meruem Hunter x Hunter",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-killua-godspeed": {
+    "name": "Killua Godspeed",
+    "canonical": "Killua Zoldyck",
+    "wiki": "Killua Zoldyck",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-isaac-netero": {
+    "name": "Isaac Netero",
+    "canonical": "Isaac Netero",
+    "wiki": "Isaac Netero",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-chrollo-lucilfer": {
+    "name": "Chrollo Lucilfer",
+    "canonical": "Chrollo Lucilfer",
+    "wiki": "Chrollo Lucilfer",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-eren-founding-titan": {
+    "name": "Eren Founding Titan",
+    "canonical": "Eren Yeager",
+    "wiki": "Eren Yeager",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-levi-ackerman": {
+    "name": "Levi Ackerman",
+    "canonical": "Levi",
+    "wiki": "Levi Ackerman",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-mikasa-ackerman": {
+    "name": "Mikasa Ackerman",
+    "canonical": "Mikasa Ackerman",
+    "wiki": "Mikasa Ackerman",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-rimuru-tempest": {
+    "name": "Rimuru Tempest",
+    "canonical": "Rimuru Tempest",
+    "wiki": "Rimuru Tempest",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-anos-voldigoad": {
+    "name": "Anos Voldigoad",
+    "canonical": "Anos Voldigoad",
+    "wiki": "Anos Voldigoad",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-ainz-ooal-gown": {
+    "name": "Ainz Ooal Gown",
+    "canonical": "Ainz Ooal Gown",
+    "wiki": "Ainz Ooal Gown",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-kirito": {
+    "name": "Kirito",
+    "canonical": "Kazuto Kirigaya",
+    "wiki": "Kirito Sword Art Online",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-sung-jinwoo": {
+    "name": "Sung Jinwoo",
+    "canonical": "Sung Jin-Woo",
+    "wiki": "Sung Jinwoo Solo Leveling",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-mob-100": {
+    "name": "Mob 100%",
+    "canonical": "Shigeo Kageyama",
+    "wiki": "Mob Psycho 100 Shigeo Kageyama",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-saiki-kusuo": {
+    "name": "Saiki Kusuo",
+    "canonical": "Kusuo Saiki",
+    "wiki": "Saiki Kusuo",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  },
+  "anime-alucard-hellsing": {
+    "name": "Alucard Hellsing",
+    "canonical": "Alucard",
+    "wiki": "Alucard Hellsing",
+    "local": null,
+    "providers": [
+      "jikan",
+      "anilist",
+      "kitsu",
+      "wikipedia"
+    ]
+  }
+}
